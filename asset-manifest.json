@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foretell.github.io/static/css/main.c403d37d.css",
+    "main.js": "/foretell.github.io/static/js/main.41f37ba5.js",
+    "index.html": "/foretell.github.io/index.html",
+    "main.c403d37d.css.map": "/foretell.github.io/static/css/main.c403d37d.css.map",
+    "main.41f37ba5.js.map": "/foretell.github.io/static/js/main.41f37ba5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c403d37d.css",
+    "static/js/main.41f37ba5.js"
+  ]
+}
