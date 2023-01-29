@@ -1,0 +1,34 @@
+.tech-osci{
+    /* background: rgb(178, 221, 24); */
+    margin: 6px 6px;
+    width: 500px;
+    /* height: 600px; */
+    padding: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.tech-osci-content{
+    display: flex;
+    justify-content: center;
+    background: red;
+    border-radius: 30px; 
+}
+
+.tech-osci-content-table thead{
+    background: rgba(44, 164, 20, 0.8);
+}
+.tech-osci-content-table thead th{
+    color: white;
+    padding: 10px;
+    background: transparent;
+}
+.tech-osci-content-table tr{
+    color: white;
+    font-weight: 500;
+}
+.tech-osci-content-table tr:hover{
+    background: rgba(20, 50, 199, 0.8);
+    /* color: white; */
+}

@@ -1,0 +1,12 @@
+.ov-chart{
+    z-index: -5;
+    /* background: green; */
+    width: 100%;
+    margin: 10px;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+}
+.ov-chart-content{
+    height: 400px;
+}

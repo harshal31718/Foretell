@@ -1,0 +1,7 @@
+.ft__profile{
+    background-color: rgb(201, 28, 28);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 2000px;
+}

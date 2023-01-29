@@ -1,0 +1,15 @@
+.ov-tech_tab{
+    /* background: red; */
+    margin: 10px;
+    border-bottom: 2px solid rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+}
+.ov-tech_tab-content{
+    height: 450px;
+    /* height: 100%; */
+    /* background: pink; */
+    
+}
+
+

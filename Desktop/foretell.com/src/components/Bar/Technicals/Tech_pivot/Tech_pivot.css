@@ -1,0 +1,38 @@
+.tech-pivot{
+    /* background: rgb(236, 196, 19); */
+    margin: 6px 6px;
+    width: 1012px;
+    /* height: 600px; */
+    padding: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.tech-pivot-content{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    border-radius: 30px;
+}
+
+.tech-pivot-content-table thead{
+    background: rgba(26, 167, 43, 0.8);
+}
+
+.tech-pivot-content-table thead th{
+    color: white;
+    padding: 10px;
+    background: transparent;
+}
+
+.tech-pivot-content-table tr{
+    color: white;
+    font-weight: 500;
+    /* padding: 5px; */
+}
+
+.tech-pivot-content-table tr:hover{
+    background: rgba(18, 11, 163, 0.8);
+    /* color: rgb(3, 3, 3); */
+}
