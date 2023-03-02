@@ -1,0 +1,7 @@
+.ft__sector{
+    background: orange;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 2000px;
+}

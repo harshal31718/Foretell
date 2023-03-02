@@ -1,0 +1,37 @@
+.tech-mavg{
+    /* background: blue; */
+    margin: 6px 6px;
+    width: 500px;
+    /* height: 600px; */
+    padding: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.tech-mavg-content{
+    display: flex;
+    justify-content: center;
+    background: red;
+    border-radius: 30px;
+}
+
+.tech-mavg-content-table thead{
+    background: rgba(26, 167, 43, 0.8);
+}
+
+.tech-mavg-content-table thead th{
+    color: white;
+    padding: 10px;
+    background: transparent;
+}
+
+.tech-mavg-content-table tr{
+    color: white;
+    font-weight: 500;
+}
+
+.tech-mavg-content-table tr:hover{
+    background: rgba(18, 11, 163, 0.8);
+    /* color: rgb(3, 3, 3); */
+}

@@ -1,0 +1,32 @@
+.details{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    min-width: 390px;
+}
+.details-name{
+    display: flex;
+    flex: 90%;
+}
+.details-name img{
+    margin-right: 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: 2px solid black;
+}
+.details-bookmark button{
+    flex: 10%;
+    background: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.details-price{
+    flex: 100%;
+    display: flex;
+    align-items: baseline;
+}

@@ -1,0 +1,12 @@
+.ft__highlights_tab{
+    display: flex;
+    flex-direction: column;
+}
+.ht-tabs{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+

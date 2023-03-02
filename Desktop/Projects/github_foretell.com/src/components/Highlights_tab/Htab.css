@@ -1,0 +1,33 @@
+.tab{
+    display: flex;
+    background: transparent;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: left;
+}
+.tab p{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    color: rgb(0,0,0);
+    /* font-family: var(--font_family-content); */
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.username{
+    flex: 5;
+}
+.price{
+    flex: 4;
+}
+.change{
+    flex: 3;
+}
+.change span{
+    margin-left: auto;
+}
+.tab:hover{
+    background: rgba(255, 255, 255, 1);
+    color: black;
+}
